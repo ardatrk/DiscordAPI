@@ -15,6 +15,6 @@
   
 ## Download
 
-<a>1. npm i</a>
-<a>2. Customize .env</a>
+<a>1. npm i</a><br>
+<a>2. Customize .env</a><br>
 <a>3. npm run dev</a>
