@@ -39,7 +39,7 @@ CREATE TABLE `verification` (
 --
 
 INSERT INTO `verification` (`username`, `discordid`, `verified`, `email`) VALUES
-('arda.xyz', '848248238866825246', '1', 'arday2008@icloud.com');
+('arda.xyz', 'example', '1', 'example.com');
 
 --
 -- Indizes der exportierten Tabellen
